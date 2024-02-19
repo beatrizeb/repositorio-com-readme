@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de testo com um arquivo README 😶‍🌫️📄
 
-[<img src="./tela.gif" alt="gif da tela inicial do projeto xyz">](https://google.com)
+[<img src="./tela.gif" alt="gif da tela inicial do projeto xyz">](https://github.com/animavita/animavita/blob/v2/README.md)
 
 ## Tecnologias utilizadas
 - HTML
